@@ -1,0 +1,1 @@
+DELETE FROM tasks WHERE work_name = 'fix-the-past';

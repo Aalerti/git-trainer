@@ -1,0 +1,3 @@
+default:
+    -git clone https://github.com/git-trainer-tasks/fix-the-past.git tasks/fix-the-past/src/repo
+    docker build -f tasks/fix-the-past/src/Dockerfile -t git-trainer:fix-the-past .

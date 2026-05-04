@@ -1,0 +1,3 @@
+default:
+    -git clone https://github.com/git-trainer-tasks/where-am-i.git tasks/where-am-i/src/repo
+    docker build -f tasks/where-am-i/src/Dockerfile -t git-trainer:where-am-i .
