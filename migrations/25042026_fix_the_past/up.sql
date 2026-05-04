@@ -5,7 +5,7 @@ INSERT INTO tasks (
     description,
     extended_description
 ) VALUES (
-             5,
+             8,
              'Назад в будущее',
              'fix-the-past',
              'Спасите сломанный проект, найдя правильный код в истории и создав новую спасательную ветку.',
